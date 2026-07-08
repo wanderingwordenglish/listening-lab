@@ -1,0 +1,88 @@
+[
+  { "audio": "berry.mp3", "correct": "berry", "choices": ["berry", "very"] },
+  { "audio": "very.mp3", "correct": "very", "choices": ["very", "berry"] },
+
+  { "audio": "ban.mp3", "correct": "ban", "choices": ["ban", "van"] },
+  { "audio": "van.mp3", "correct": "van", "choices": ["van", "ban"] },
+
+  { "audio": "bat.mp3", "correct": "bat", "choices": ["bat", "vat"] },
+  { "audio": "vat.mp3", "correct": "vat", "choices": ["vat", "bat"] },
+
+  { "audio": "beer.mp3", "correct": "beer", "choices": ["beer", "veer"] },
+  { "audio": "veer.mp3", "correct": "veer", "choices": ["veer", "beer"] },
+
+  { "audio": "boat.mp3", "correct": "boat", "choices": ["boat", "vote"] },
+  { "audio": "vote.mp3", "correct": "vote", "choices": ["vote", "boat"] },
+
+  { "audio": "bowl.mp3", "correct": "bowl", "choices": ["bowl", "vole"] },
+  { "audio": "vole.mp3", "correct": "vole", "choices": ["vole", "bowl"] },
+
+  { "audio": "serb.mp3", "correct": "serb", "choices": ["Serb", "serve"] },
+  { "audio": "serve.mp3", "correct": "serve", "choices": ["serve", "Serb"] },
+
+  { "audio": "best.mp3", "correct": "best", "choices": ["best", "vest"] },
+  { "audio": "vest.mp3", "correct": "vest", "choices": ["vest", "best"] },
+
+  { "audio": "bet.mp3", "correct": "bet", "choices": ["bet", "vet"] },
+  { "audio": "vet.mp3", "correct": "vet", "choices": ["vet", "bet"] },
+
+  { "audio": "bowel.mp3", "correct": "bowel", "choices": ["bowel", "vowel"] },
+  { "audio": "vowel.mp3", "correct": "vowel", "choices": ["vowel", "bowel"] },
+
+  { "audio": "gibbon.mp3", "correct": "gibbon", "choices": ["gibbon", "given"] },
+  { "audio": "given.mp3", "correct": "given", "choices": ["given", "gibbon"] },
+
+  { "audio": "bail.mp3", "correct": "bale", "choices": ["bale", "veil"] },
+  { "audio": "veil.mp3", "correct": "veil", "choices": ["veil", "bale"] },
+
+  { "audio": "bent.mp3", "correct": "bent", "choices": ["bent", "vent"] },
+  { "audio": "vent.mp3", "correct": "vent", "choices": ["vent", "bent"] },
+
+  { "audio": "bow.mp3", "correct": "bow", "choices": ["bow", "vow"] },
+  { "audio": "vow.mp3", "correct": "vow", "choices": ["vow", "bow"] },
+
+  { "audio": "bane.mp3", "correct": "bane", "choices": ["bane", "vain"] },
+  { "audio": "vein.mp3", "correct": "vain", "choices": ["vain", "bane"] },
+
+  { "audio": "bid.mp3", "correct": "bid", "choices": ["bid", "vid"] },
+  { "audio": "vid.mp3", "correct": "vid", "choices": ["vid", "bid"] },
+
+  { "audio": "bile.mp3", "correct": "bile", "choices": ["bile", "vile"] },
+  { "audio": "vile.mp3", "correct": "vile", "choices": ["vile", "bile"] },
+
+  { "audio": "biz.mp3", "correct": "biz", "choices": ["biz", "viz"] },
+  { "audio": "viz.mp3", "correct": "viz", "choices": ["viz", "biz"] },
+
+  { "audio": "bolt.mp3", "correct": "bolt", "choices": ["bolt", "volt"] },
+  { "audio": "volt.mp3", "correct": "volt", "choices": ["volt", "bolt"] },
+
+  { "audio": "broom.mp3", "correct": "broom", "choices": ["broom", "vroom"] },
+  { "audio": "vroom.mp3", "correct": "vroom", "choices": ["vroom", "broom"] },
+
+  { "audio": "curb.mp3", "correct": "curb", "choices": ["curb", "curve"] },
+  { "audio": "curve.mp3", "correct": "curve", "choices": ["curve", "curb"] },
+
+  { "audio": "carb.mp3", "correct": "carb", "choices": ["carb", "carve"] },
+  { "audio": "carve.mp3", "correct": "carve", "choices": ["carve", "carb"] },
+
+  { "audio": "dribble.mp3", "correct": "dribble", "choices": ["dribble", "drivel"] },
+  { "audio": "drivel.mp3", "correct": "drivel", "choices": ["drivel", "dribble"] },
+
+  { "audio": "dub.mp3", "correct": "dub", "choices": ["dub", "dove"] },
+  { "audio": "dove.mp3", "correct": "dove", "choices": ["dove", "dub"] },
+
+  { "audio": "fiber.mp3", "correct": "fiber", "choices": ["fiber", "fiver"] },
+  { "audio": "fiver.mp3", "correct": "fiver", "choices": ["fiver", "fiber"] },
+
+  { "audio": "jib.mp3", "correct": "jibe", "choices": ["jibe", "jive"] },
+  { "audio": "jive.mp3", "correct": "jive", "choices": ["jive", "jibe"] },
+
+  { "audio": "lobes.mp3", "correct": "lobes", "choices": ["lobes", "loaves"] },
+  { "audio": "loaves.mp3", "correct": "loaves", "choices": ["loaves", "lobes"] },
+
+  { "audio": "rebel.mp3", "correct": "rebel", "choices": ["rebel", "revel"] },
+  { "audio": "revel.mp3", "correct": "revel", "choices": ["revel", "rebel"] },
+
+  { "audio": "verb.mp3", "correct": "verb", "choices": ["verb", "verve"] },
+  { "audio": "verve.mp3", "correct": "verve", "choices": ["verve", "verb"] }
+]

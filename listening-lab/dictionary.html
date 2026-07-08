@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Listening Lab Dictionary</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <div class="page-nav">
+      <a class="quiz-button page-nav-button" href="quiz.html">Quiz</a>
+      <a class="quiz-button page-nav-button active" href="dictionary.html">Dictionary</a>
+    </div>
+    <h1>Wandering Word Listening Lab</h1>
+    <div class="quiz-buttons">
+      <button class="quiz-button active" data-quiz="B vs. V">B vs. V</button>
+      <button class="quiz-button" data-quiz="R vs. L">R vs. L</button>
+      <button class="quiz-button" data-quiz="EE vs. IH">EE vs. IH</button>
+      <button class="quiz-button" data-quiz="UU vs. OO">UU vs. OO</button>
+    </div>
+    <div class="exercise-card">
+      <p class="dictionary-hint">Click any word to hear it!</p>
+      <div id="dictionaryRoot"></div>
+    </div>
+  </main>
+
+  <script src="dictionary.js"></script>
+</body>
+</html>

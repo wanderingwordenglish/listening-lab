@@ -1,0 +1,171 @@
+[
+  
+  { "audio": "sit.mp3", "correct": "sit", "choices": ["sit", "seat"] },
+  { "audio": "seat.mp3", "correct": "seat", "choices": ["seat", "sit"] },
+
+  { "audio": "fill.mp3", "correct": "fill", "choices": ["fill", "feel"] },
+  { "audio": "feel.mp3", "correct": "feel", "choices": ["feel", "fill"] },
+
+  { "audio": "fit.mp3", "correct": "fit", "choices": ["fit", "feet"] },
+  { "audio": "feet.mp3", "correct": "feet", "choices": ["feet", "fit"] },
+
+  { "audio": "hit.mp3", "correct": "hit", "choices": ["hit", "heat"] },
+  { "audio": "heat.mp3", "correct": "heat", "choices": ["heat", "hit"] },
+
+  { "audio": "bit.mp3", "correct": "bit", "choices": ["bit", "beat"] },
+  { "audio": "beat.mp3", "correct": "beat", "choices": ["beat", "bit"] },
+
+  { "audio": "pick.mp3", "correct": "pick", "choices": ["pick", "peek"] },
+  { "audio": "peek.mp3", "correct": "peek", "choices": ["peek", "pick"] },
+
+  { "audio": "lip.mp3", "correct": "lip", "choices": ["lip", "leap"] },
+  { "audio": "leap.mp3", "correct": "leap", "choices": ["leap", "lip"] },
+
+  { "audio": "lick.mp3", "correct": "lick", "choices": ["lick", "leak"] },
+  { "audio": "leak.mp3", "correct": "leak", "choices": ["leak", "lick"] },
+
+  { "audio": "mill.mp3", "correct": "mill", "choices": ["mill", "meal"] },
+  { "audio": "meal.mp3", "correct": "meal", "choices": ["meal", "mill"] },
+
+  { "audio": "hill.mp3", "correct": "hill", "choices": ["hill", "he'll"] },
+  { "audio": "he-ll.mp3", "correct": "he'll", "choices": ["he'll", "hill"] },
+
+  { "audio": "still.mp3", "correct": "still", "choices": ["still", "steal"] },
+  { "audio": "steal.mp3", "correct": "steal", "choices": ["steal", "still"] },
+
+  { "audio": "did.mp3", "correct": "did", "choices": ["did", "deed"] },
+  { "audio": "deed.mp3", "correct": "deed", "choices": ["deed", "did"] },
+
+  { "audio": "bin.mp3", "correct": "bin", "choices": ["bin", "bean"] },
+  { "audio": "bean.mp3", "correct": "bean", "choices": ["bean", "bin"] },
+
+  { "audio": "chip.mp3", "correct": "chip", "choices": ["chip", "cheap"] },
+  { "audio": "cheap.mp3", "correct": "cheap", "choices": ["cheap", "chip"] },
+
+  { "audio": "slip.mp3", "correct": "slip", "choices": ["slip", "sleep"] },
+  { "audio": "sleep.mp3", "correct": "sleep", "choices": ["sleep", "slip"] },
+
+  { "audio": "mitt.mp3", "correct": "mitt", "choices": ["mitt", "meet"] },
+  { "audio": "meet.mp3", "correct": "meet", "choices": ["meet", "mitt"] },
+
+  { "audio": "grin.mp3", "correct": "grin", "choices": ["grin", "green"] },
+  { "audio": "green.mp3", "correct": "green", "choices": ["green", "grin"] },
+
+  { "audio": "hid.mp3", "correct": "hid", "choices": ["hid", "heed"] },
+  { "audio": "heed.mp3", "correct": "heed", "choices": ["heed", "hid"] },
+
+  { "audio": "itch.mp3", "correct": "itch", "choices": ["itch", "each"] },
+  { "audio": "each.mp3", "correct": "each", "choices": ["each", "itch"] },
+
+  { "audio": "sick.mp3", "correct": "sick", "choices": ["sick", "seek"] },
+  { "audio": "seek.mp3", "correct": "seek", "choices": ["seek", "sick"] },
+
+  { "audio": "sin.mp3", "correct": "sin", "choices": ["sin", "seen"] },
+  { "audio": "seen.mp3", "correct": "seen", "choices": ["seen", "sin"] },
+
+  { "audio": "tin.mp3", "correct": "tin", "choices": ["tin", "teen"] },
+  { "audio": "teen.mp3", "correct": "teen", "choices": ["teen", "tin"] },
+
+  { "audio": "gin.mp3", "correct": "gin", "choices": ["gin", "gene"] },
+  { "audio": "gene.mp3", "correct": "gene", "choices": ["gene", "gin"] },
+
+  { "audio": "ill.mp3", "correct": "ill", "choices": ["ill", "eel"] },
+  { "audio": "eel.mp3", "correct": "eel", "choices": ["eel", "ill"] },
+
+  { "audio": "bid.mp3", "correct": "bid", "choices": ["bid", "bead"] },
+  { "audio": "bead.mp3", "correct": "bead", "choices": ["bead", "bid"] },
+
+  { "audio": "dip.mp3", "correct": "dip", "choices": ["dip", "deep"] },
+  { "audio": "deep.mp3", "correct": "deep", "choices": ["deep", "dip"] },
+
+  { "audio": "hip.mp3", "correct": "hip", "choices": ["hip", "heap"] },
+  { "audio": "heap.mp3", "correct": "heap", "choices": ["heap", "hip"] },
+
+  { "audio": "kid.mp3", "correct": "kid", "choices": ["kid", "keyed"] },
+  { "audio": "keyed.mp3", "correct": "keyed", "choices": ["keyed", "kid"] },
+
+  { "audio": "pill.mp3", "correct": "pill", "choices": ["pill", "peel"] },
+  { "audio": "peel.mp3", "correct": "peel", "choices": ["peel", "pill"] },
+
+  { "audio": "pip.mp3", "correct": "pip", "choices": ["pip", "peep"] },
+  { "audio": "peep.mp3", "correct": "peep", "choices": ["peep", "pip"] },
+
+  { "audio": "chick.mp3", "correct": "chick", "choices": ["chick", "cheek"] },
+  { "audio": "cheek.mp3", "correct": "cheek", "choices": ["cheek", "chick"] },
+
+  { "audio": "fist.mp3", "correct": "fist", "choices": ["fist", "feast"] },
+  { "audio": "feast.mp3", "correct": "feast", "choices": ["feast", "fist"] },
+
+  { "audio": "fizz.mp3", "correct": "fizz", "choices": ["fizz", "fees"] },
+  { "audio": "fees.mp3", "correct": "fees", "choices": ["fees", "fizz"] },
+
+  { "audio": "till.mp3", "correct": "till", "choices": ["till", "teal"] },
+  { "audio": "teal.mp3", "correct": "teal", "choices": ["teal", "till"] },
+
+  { "audio": "skim.mp3", "correct": "skim", "choices": ["skim", "scheme"] },
+  { "audio": "scheme.mp3", "correct": "scheme", "choices": ["scheme", "skim"] },
+
+  { "audio": "skid.mp3", "correct": "skid", "choices": ["skid", "skied"] },
+  { "audio": "skied.mp3", "correct": "skied", "choices": ["skied", "skid"] },
+
+  { "audio": "biz.mp3", "correct": "biz", "choices": ["biz", "bees"] },
+  { "audio": "bees.mp3", "correct": "bees", "choices": ["bees", "biz"] },
+
+  { "audio": "bitch.mp3", "correct": "bitch", "choices": ["bitch", "beach"] },
+  { "audio": "beach.mp3", "correct": "beach", "choices": ["beach", "bitch"] },
+
+  { "audio": "pitch.mp3", "correct": "pitch", "choices": ["pitch", "peach"] },
+  { "audio": "peach.mp3", "correct": "peach", "choices": ["peach", "pitch"] },
+
+  { "audio": "piss.mp3", "correct": "piss", "choices": ["piss", "peace"] },
+  { "audio": "peace.mp3", "correct": "peace", "choices": ["peace", "piss"] },
+
+  { "audio": "kip.mp3", "correct": "kip", "choices": ["kip", "keep"] },
+  { "audio": "keep.mp3", "correct": "keep", "choices": ["keep", "kip"] },
+
+  { "audio": "knit.mp3", "correct": "knit", "choices": ["knit", "neat"] },
+  { "audio": "neat.mp3", "correct": "neat", "choices": ["neat", "knit"] },
+
+  { "audio": "grid.mp3", "correct": "grid", "choices": ["grid", "greed"] },
+  { "audio": "greed.mp3", "correct": "greed", "choices": ["greed", "grid"] },
+
+  { "audio": "risen.mp3", "correct": "risen", "choices": ["risen", "reason"] },
+  { "audio": "reason.mp3", "correct": "reason", "choices": ["reason", "risen"] },
+
+  { "audio": "blip.mp3", "correct": "blip", "choices": ["blip", "bleep"] },
+  { "audio": "bleep.mp3", "correct": "bleep", "choices": ["bleep", "blip"] },
+
+  { "audio": "britches.mp3", "correct": "britches", "choices": ["britches", "breeches"] },
+  { "audio": "breeches.mp3", "correct": "breeches", "choices": ["breeches", "britches"] },
+
+  { "audio": "din.mp3", "correct": "din", "choices": ["din", "dean"] },
+  { "audio": "dean.mp3", "correct": "dean", "choices": ["dean", "din"] },
+
+  { "audio": "flit.mp3", "correct": "flit", "choices": ["flit", "fleet"] },
+  { "audio": "fleet.mp3", "correct": "fleet", "choices": ["fleet", "flit"] },
+
+  { "audio": "pit.mp3", "correct": "pit", "choices": ["pit", "peat"] },
+  { "audio": "peat.mp3", "correct": "peat", "choices": ["peat", "pit"] },
+
+  { "audio": "sim.mp3", "correct": "sim", "choices": ["sim", "seam"] },
+  { "audio": "seam.mp3", "correct": "seam", "choices": ["seam", "sim"] },
+
+  { "audio": "sip.mp3", "correct": "sip", "choices": ["sip", "seep"] },
+  { "audio": "seep.mp3", "correct": "seep", "choices": ["seep", "sip"] },
+
+  { "audio": "shin.mp3", "correct": "shin", "choices": ["shin", "sheen"] },
+  { "audio": "sheen.mp3", "correct": "sheen", "choices": ["sheen", "shin"] },
+
+  { "audio": "skit.mp3", "correct": "skit", "choices": ["skit", "skeet"] },
+  { "audio": "skeet.mp3", "correct": "skeet", "choices": ["skeet", "skit"] },
+
+  { "audio": "slick.mp3", "correct": "slick", "choices": ["slick", "sleek"] },
+  { "audio": "sleek.mp3", "correct": "sleek", "choices": ["sleek", "slick"] },
+
+  { "audio": "slit.mp3", "correct": "slit", "choices": ["slit", "sleet"] },
+  { "audio": "sleet.mp3", "correct": "sleet", "choices": ["sleet", "slit"] },
+
+  { "audio": "tick.mp3", "correct": "tick", "choices": ["tick", "teak"] },
+  { "audio": "teak.mp3", "correct": "teak", "choices": ["teak", "tick"] }
+
+]

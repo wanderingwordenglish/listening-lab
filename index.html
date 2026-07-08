@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WANDERING WORD | English with Mindy</title>
+  <link rel="stylesheet" href="listening-lab/style.css" />
+</head>
+<body>
+  <div class="page-nav" role="navigation" aria-label="Main navigation">
+    <a class="page-nav-link" href="#welcome">Welcome</a>
+    <div class="dropdown">
+      <button class="page-nav-link dropdown-toggle" type="button">Learn</button>
+      <div class="dropdown-menu">
+        <a href="#lessons">1:1 Lessons</a>
+        <a href="#lessons">Accent Course</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="page-nav-link dropdown-toggle" type="button">Practice</button>
+      <div class="dropdown-menu">
+        <a href="listening-lab/quiz.html">Listening Lab</a>
+        <a href="#practice">Grammar Lab</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="page-nav-link dropdown-toggle" type="button">Connect</button>
+      <div class="dropdown-menu">
+        <a href="#connect">YouTube</a>
+        <a href="#connect">Instagram</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="page-nav-link dropdown-toggle" type="button">Travel</button>
+      <div class="dropdown-menu">
+        <a href="#travel">Language Immersion</a>
+      </div>
+    </div>
+  </div>
+
+  <main class="homepage-container">
+    <section id="welcome" class="home-panel">
+      <div class="panel-card">
+        <h1>WANDERING WORD</h1>
+        <p class="subtitle">English with Mindy</p>
+        <p>Welcome to your launchpad for confident speaking, listening, and pronunciation.</p>
+      </div>
+    </section>
+
+    <section id="about" class="home-panel">
+      <div class="panel-card profile-card">
+        <div class="profile-image-wrap">
+          <img src="listening-lab/images/mindy-headshot.jpg" alt="Mindy smiling" class="profile-image" />
+        </div>
+        <div class="profile-copy">
+          <h2>About Mindy</h2>
+          <p>I’m Mindy, an architect and writer from sunny Los Angeles, California, and I’ve taught English online for over 6 years, giving thousands of classes to hundreds of students from more than fifty-five countries.</p>
+          <p>I’m passionate about language learning, and I’ve created Wandering Word to share the English language with learners across the globe. We’re building a community dedicated to leveling up your English skills and self-confidence.</p>
+          <p>I’ve traveled to 42 countries and love meeting people from around the world. I’ll be your coach, teacher, guide, and friend as we explore all the quirky nuances and beautiful expressions that English has to offer!</p>
+          <ul class="profile-badges">
+            <li>TEFL-Certified | 140 hours</li>
+            <li>Certified Accent Specialist | via the <a href="https://www.theaccentchannel.com/theaccentchannelmethod" target="_blank" rel="noopener noreferrer">Accent Channel</a></li>
+            <li>French Speaker | B2/C1</li>
+            <li>Italian Speaker | B1/B2</li>
+            <li>Spanish Speaker | B1/B2</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="lessons" class="home-panel">
+      <div class="panel-card">
+        <h2>Lessons</h2>
+        <p>Explore private 1:1 classes, audio pronunciation work, and an accent course designed for English learners at every level.</p>
+      </div>
+    </section>
+
+    <section id="testimonials" class="home-panel">
+      <div class="panel-card">
+        <h2>Testimonials</h2>
+        <p>Students say Mindy’s teaching is friendly, motivating, and effective. Placeholder quotes and success stories will appear here soon.</p>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    document.querySelectorAll('.dropdown-toggle').forEach((button) => {
+      button.addEventListener('click', () => {
+        const menu = button.nextElementSibling;
+        menu.classList.toggle('open');
+      });
+    });
+    window.addEventListener('click', (event) => {
+      if (!event.target.closest('.dropdown')) {
+        document.querySelectorAll('.dropdown-menu.open').forEach((menu) => menu.classList.remove('open'));
+      }
+    });
+  </script>
+</body>
+</html>

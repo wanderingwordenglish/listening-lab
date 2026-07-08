@@ -1,0 +1,111 @@
+[
+  { "audio": "light.mp3", "correct": "light", "choices": ["light", "right"] },
+  { "audio": "right.mp3", "correct": "right", "choices": ["right", "light"] },
+
+  { "audio": "lace.mp3", "correct": "lace", "choices": ["lace", "race"] },
+  { "audio": "race.mp3", "correct": "race", "choices": ["race", "lace"] },
+
+  { "audio": "lack.mp3", "correct": "lack", "choices": ["lack", "rack"] },
+  { "audio": "rack.mp3", "correct": "rack", "choices": ["rack", "lack"] },
+
+  { "audio": "lake.mp3", "correct": "lake", "choices": ["lake", "rake"] },
+  { "audio": "rake.mp3", "correct": "rake", "choices": ["rake", "lake"] },
+
+  { "audio": "lamb.mp3", "correct": "lamb", "choices": ["lamb", "ram"] },
+  { "audio": "ram.mp3",  "correct": "ram",  "choices": ["ram", "lamb"] },
+
+  { "audio": "lash.mp3", "correct": "lash", "choices": ["lash", "rash"] },
+  { "audio": "rash.mp3", "correct": "rash", "choices": ["rash", "lash"] },
+
+  { "audio": "lead.mp3", "correct": "lead", "choices": ["lead", "read"] },
+  { "audio": "read.mp3", "correct": "read", "choices": ["read", "lead"] },
+
+  { "audio": "leap.mp3", "correct": "leap", "choices": ["leap", "reap"] },
+  { "audio": "reap.mp3", "correct": "reap", "choices": ["reap", "leap"] },
+
+  { "audio": "leech.mp3", "correct": "leech", "choices": ["leech", "reach"] },
+  { "audio": "reach.mp3", "correct": "reach", "choices": ["reach", "leech"] },
+
+  { "audio": "leer.mp3", "correct": "leer", "choices": ["leer", "rear"] },
+  { "audio": "rear.mp3", "correct": "rear", "choices": ["rear", "leer"] },
+
+  { "audio": "lick.mp3", "correct": "lick", "choices": ["lick", "rick"] },
+  { "audio": "rick.mp3", "correct": "rick", "choices": ["rick", "lick"] },
+
+  { "audio": "limb.mp3", "correct": "limb", "choices": ["limb", "rim"] },
+  { "audio": "rim.mp3",  "correct": "rim",  "choices": ["rim", "limb"] },
+
+  { "audio": "lime.mp3", "correct": "lime", "choices": ["lime", "rhyme"] },
+  { "audio": "rhyme.mp3","correct": "rhyme","choices": ["rhyme", "lime"] },
+
+  { "audio": "link.mp3", "correct": "link", "choices": ["link", "rink"] },
+  { "audio": "rink.mp3", "correct": "rink", "choices": ["rink", "link"] },
+
+  { "audio": "lob.mp3",  "correct": "lob",  "choices": ["lob", "rob"] },
+  { "audio": "rob.mp3",  "correct": "rob",  "choices": ["rob", "lob"] },
+
+  { "audio": "lobe.mp3", "correct": "lobe", "choices": ["lobe", "robe"] },
+  { "audio": "robe.mp3", "correct": "robe", "choices": ["robe", "lobe"] },
+
+  { "audio": "look.mp3", "correct": "look", "choices": ["look", "rook"] },
+  { "audio": "rook.mp3", "correct": "rook", "choices": ["rook", "look"] },
+
+  { "audio": "loom.mp3", "correct": "loom", "choices": ["loom", "room"] },
+  { "audio": "room.mp3", "correct": "room", "choices": ["room", "loom"] },
+
+  { "audio": "lope.mp3", "correct": "lope", "choices": ["lope", "rope"] },
+  { "audio": "rope.mp3", "correct": "rope", "choices": ["rope", "lope"] },
+
+  { "audio": "luck.mp3","correct": "luck","choices": ["luck","ruck"] },
+  { "audio": "ruck.mp3","correct": "ruck","choices": ["ruck","luck"] },
+
+  { "audio": "lug.mp3",  "correct": "lug",  "choices": ["lug", "rug"] },
+  { "audio": "rug.mp3",  "correct": "rug",  "choices": ["rug", "lug"] },
+
+  { "audio": "lump.mp3", "correct": "lump", "choices": ["lump", "rump"] },
+  { "audio": "rump.mp3", "correct": "rump", "choices": ["rump", "lump"] },
+
+  { "audio": "lung.mp3", "correct": "lung", "choices": ["lung", "rung"] },
+  { "audio": "rung.mp3", "correct": "rung", "choices": ["rung", "lung"] },
+
+  { "audio": "lush.mp3", "correct": "lush", "choices": ["lush", "rush"] },
+  { "audio": "rush.mp3", "correct": "rush", "choices": ["rush", "lush"] },
+
+  { "audio": "lust.mp3", "correct": "lust", "choices": ["lust", "rust"] },
+  { "audio": "rust.mp3", "correct": "rust", "choices": ["rust", "lust"] },
+
+  { "audio": "blacken.mp3","correct":"blacken","choices":["blacken","bracken"]},
+  { "audio": "bracken.mp3","correct":"bracken","choices":["bracken","blacken"]},
+
+  { "audio": "blight.mp3","correct":"blight","choices":["blight","bright"]},
+  { "audio": "bright.mp3","correct":"bright","choices":["bright","blight"]},
+
+  { "audio": "blue.mp3","correct":"blue","choices":["blue","brew"]},
+  { "audio": "brew.mp3","correct":"brew","choices":["brew","blue"]},
+
+  { "audio": "clash.mp3","correct":"clash","choices":["clash","crash"]},
+  { "audio": "crash.mp3","correct":"crash","choices":["crash","clash"]},
+
+  { "audio": "flee.mp3","correct":"flee","choices":["flee","free"]},
+  { "audio": "free.mp3","correct":"free","choices":["free","flee"]},
+
+  { "audio": "fleas.mp3","correct":"fleas","choices":["fleas","freeze"]},
+  { "audio": "freeze.mp3","correct":"freeze","choices":["freeze","fleas"]},
+
+  { "audio": "glow.mp3","correct":"glow","choices":["glow","grow"]},
+  { "audio": "grow.mp3","correct":"grow","choices":["grow","glow"]},
+
+  { "audio": "lair.mp3","correct":"lair","choices":["lair","rare"]},
+  { "audio": "rare.mp3","correct":"rare","choices":["rare","lair"]},
+
+  { "audio": "law.mp3","correct":"law","choices":["law","raw"]},
+  { "audio": "raw.mp3","correct":"raw","choices":["raw","law"]},
+
+  { "audio": "leak.mp3","correct":"leak","choices":["leak","reek"]},
+  { "audio": "reek.mp3","correct":"reek","choices":["reek","leak"]},
+
+  { "audio": "loaves.mp3","correct":"loaves","choices":["loaves","roves"]},
+  { "audio": "roves.mp3","correct":"roves","choices":["roves","loaves"]}
+
+]
+

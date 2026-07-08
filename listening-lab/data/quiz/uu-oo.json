@@ -1,0 +1,34 @@
+[
+  { "audio": "full.mp3", "correct": "full", "choices": ["full", "fool"] },
+  { "audio": "fool.mp3", "correct": "fool", "choices": ["fool", "full"] },
+
+  { "audio": "pull.mp3", "correct": "pull", "choices": ["pull", "pool"] },
+  { "audio": "pool.mp3", "correct": "pool", "choices": ["pool", "pull"] },
+
+  { "audio": "look.mp3", "correct": "look", "choices": ["look", "Luke"] },
+  { "audio": "luke.mp3", "correct": "Luke", "choices": ["Luke", "look"] },
+
+  { "audio": "cook.mp3", "correct": "cook", "choices": ["cook", "kook"] },
+  { "audio": "kook.mp3", "correct": "kook", "choices": ["kook", "cook"] },
+
+  { "audio": "hood.mp3", "correct": "hood", "choices": ["hood", "who'd"] },
+  { "audio": "who-d.mp3", "correct": "who'd", "choices": ["who'd", "hood"] },
+
+  { "audio": "wood.mp3", "correct": "wood", "choices": ["wood", "wooed"] },
+  { "audio": "wooed.mp3", "correct": "wooed", "choices": ["wooed", "wood"] },
+
+  { "audio": "could.mp3", "correct": "could", "choices": ["could", "cooed"] },
+  { "audio": "cooed.mp3", "correct": "cooed", "choices": ["cooed", "could"] },
+
+  { "audio": "should.mp3", "correct": "should", "choices": ["should", "shooed"] },
+  { "audio": "shooed.mp3", "correct": "shooed", "choices": ["shooed", "should"] },
+
+  { "audio": "good.mp3", "correct": "good", "choices": ["good", "gooed"] },
+  { "audio": "gooed.mp3", "correct": "gooed", "choices": ["gooed", "good"] },
+
+  { "audio": "stood.mp3", "correct": "stood", "choices": ["stood", "stewed"] },
+  { "audio": "stewed.mp3", "correct": "stewed", "choices": ["stewed", "stood"] },
+
+  { "audio": "soot.mp3", "correct": "soot", "choices": ["soot", "suit"] },
+  { "audio": "suit.mp3", "correct": "suit", "choices": ["suit", "soot"] }
+]
