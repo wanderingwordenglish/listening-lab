@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Listening Lab</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <div class="page-nav">
+      <a class="quiz-button page-nav-button active" href="index.html">Quiz</a>
+      <a class="quiz-button page-nav-button" href="dictionary.html">Dictionary</a>
+    </div>
+    <h1>Wandering Word Listening Lab</h1>
+    <div class="quiz-buttons">
+      <button class="quiz-button" data-quiz="B vs. V">B vs. V</button>
+      <button class="quiz-button" data-quiz="R vs. L">R vs. L</button>
+      <button class="quiz-button" data-quiz="EE vs. IH">EE vs. IH</button>
+      <button class="quiz-button" data-quiz="UU vs. OO">UU vs. OO</button>
+      <button class="quiz-button" data-quiz="All Vowels">All Vowels</button>
+    </div>
+    <div id="progress" class="progress-counter" aria-live="polite"><span id="progressText"></span></div>
+
+    <div class="exercise-card">
+      <button id="playButton" class="play-button" aria-label="Play audio">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M11 5L6 9H2v6h4l5 4V5z" fill="white" />
+          <path d="M16.5 8.5a4.5 4.5 0 010 7" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M19 6a7 7 0 010 12" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+
+      <audio id="audioPlayer" preload="auto"></audio>
+
+      <div id="answerGroup" class="answer-group"></div>
+
+      <div class="controls">
+        <button id="nextButton" class="control-button" disabled>Next</button>
+      </div>
+
+      <p id="feedback" class="feedback"></p>
+      <div id="feedbackWord" class="feedback-word" aria-live="polite"></div>
+    </div>
+    
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

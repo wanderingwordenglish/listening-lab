@@ -1,0 +1,325 @@
+[
+  {
+    "audio": "lack.mp3",
+    "correct": "short A 🍎 /æ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "grand.mp3",
+    "correct": "short A 🍎 /æ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "bent.mp3",
+    "correct": "short E 🥚 /ɛ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "bid.mp3",
+    "correct": "short I 🐛 /ɪ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "law.mp3",
+    "correct": "short O 🐙 /ɑ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "dove.mp3",
+    "correct": "short U ☂️ /ʌ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "rush.mp3",
+    "correct": "short U ☂️ /ʌ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "lake.mp3",
+    "correct": "long A 🌰 /e/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "fees.mp3",
+    "correct": "long E 🐍 /i/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "gene.mp3",
+    "correct": "long E 🐍 /i/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "bile.mp3",
+    "correct": "long I 🧊 /ɑɪ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "roam.mp3",
+    "correct": "long O 😮 /o/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "glow.mp3",
+    "correct": "long O 😮 /o/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "luke.mp3",
+    "correct": "long U 🦄 /u/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "wood.mp3",
+    "correct": "OO 📚 /ʊ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "bow.mp3",
+    "correct": "OW 🏡 /ɑʊ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  },
+  {
+    "audio": "boy.mp3",
+    "correct": "OY 👦🏻 /ɔɪ/",
+    "choices": [
+      "short A 🍎 /æ/",
+      "long A 🌰 /e/",
+      "short E 🥚 /ɛ/",
+      "long E 🐍 /i/",
+      "short I 🐛 /ɪ/",
+      "long I 🧊 /ɑɪ/",
+      "short O 🐙 /ɑ/",
+      "long O 😮 /o/",
+      "short U ☂️ /ʌ/",
+      "long U 🦄 /u/",
+      "OO 📚 /ʊ/",
+      "OW 🏡 /ɑʊ/",
+      "OY 👦🏻 /ɔɪ/"
+    ]
+  }
+]
